@@ -11,6 +11,12 @@
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>  建立这个博客主要用来记录我的学习笔记或日常。</p><p>初次运行于20.06.11，目前还有许多问题需要完善，有些东西还没改好就放上来了o(=•ェ•=)m。</p><h2 id="搭建思路为hexo-github"><a href="#搭建思路为hexo-github" class="headerlink" title="搭建思路为hexo+github"></a>搭建思路为hexo+github</h2><pre><code>考虑到成本与工作量的问题，这个方案是相对不错的（为自己懒找借口）。随时欢迎大家来提建议哈(ง •_•)ง，我是不会停下来的！</code></pre><p>推荐搭建文章: [超逸の博客]（<a href="https://yangchaoyi.vip）" target="_blank" rel="noopener">https://yangchaoyi.vip）</a></p>]]></content>
       
       
+      <categories>
+          
+          <category> 其他 </category>
+          
+      </categories>
+      
       
     </entry>
     
